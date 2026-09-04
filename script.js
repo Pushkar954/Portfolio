@@ -74,9 +74,9 @@ window.addEventListener("scroll", () => {
 });
 
 
-// =========================
+
 // HEADER SHADOW ON SCROLL
-// =========================
+
 
 const header = document.querySelector(".header");
 

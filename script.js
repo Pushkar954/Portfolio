@@ -20,7 +20,7 @@ menuIcon.addEventListener("click", () => {
 });
 
 
-// =========================
+
 // CLOSE MENU AFTER CLICKING
 
 

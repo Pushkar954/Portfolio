@@ -1,6 +1,6 @@
-// =========================
+
 // MOBILE MENU
-// =========================
+
 
 const menuIcon = document.querySelector(".menu-icon");
 const navbar = document.querySelector(".navbar");
@@ -22,7 +22,7 @@ menuIcon.addEventListener("click", () => {
 
 // =========================
 // CLOSE MENU AFTER CLICKING
-// =========================
+
 
 const navLinks = document.querySelectorAll(".navbar a");
 

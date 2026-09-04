@@ -37,9 +37,8 @@ navLinks.forEach(link => {
 });
 
 
-// =========================
 // ACTIVE NAVBAR LINK
-// =========================
+
 
 const sections = document.querySelectorAll("section");
 

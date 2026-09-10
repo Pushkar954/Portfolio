@@ -1,6 +1,6 @@
-// =========================
+
 // MOBILE MENU
-// =========================
+
 
 const menuIcon = document.querySelector(".menu-icon");
 const navbar = document.querySelector(".navbar");
@@ -20,9 +20,9 @@ menuIcon.addEventListener("click", () => {
 });
 
 
-// =========================
+
 // CLOSE MENU AFTER CLICKING
-// =========================
+
 
 const navLinks = document.querySelectorAll(".navbar a");
 
@@ -37,9 +37,8 @@ navLinks.forEach(link => {
 });
 
 
-// =========================
 // ACTIVE NAVBAR LINK
-// =========================
+
 
 const sections = document.querySelectorAll("section");
 
@@ -74,9 +73,9 @@ window.addEventListener("scroll", () => {
 });
 
 
-// =========================
+
 // HEADER SHADOW ON SCROLL
-// =========================
+
 
 const header = document.querySelector(".header");
 
